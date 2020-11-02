@@ -8,7 +8,7 @@ use universal selector (*) to select all elements*/
 body {margin: 0;
 	 background-color: #ffffff;
 }
-#container {color: #006600;
+#container {color: #000000;
 			font-family: Verdana, Arial, sans-serif;
 }
 header {  background-color: #ffffff;
@@ -25,11 +25,11 @@ aside {float: right;
 main {margin: 0 21px 0 160px;
 	padding: 1px 10px 20px 10px;
 	background-color: #ffffff;
-	color: #006600;
+	color: #000000;
 }
 footer {font-size: .70em;
         text-align: center;
-        color: #006600;
+        color: #000000;
         background-color: #ffffff;
         padding-top: 10px;
 }
@@ -42,7 +42,7 @@ header a{display: none;}
 main p {margin: 20px;
 }
 
-main h2, main h3 {color: #cc66cc;
+main h2, main h3 {color: ##00388F;
 				background-color: #ffffff;
 }
 .floatright {margin: 10px;
@@ -52,7 +52,7 @@ aside h3 {padding-bottom: 2px;
 		border-bottom: 1px solid #000000;
 		margin: 10px;
 		font-size: 0.90em;
-		color: #cc66cc;
+		color: #00388F;
 }
 .news {font-size: 0.80em;
 	   margin: 10px;
