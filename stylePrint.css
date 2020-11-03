@@ -1,8 +1,5 @@
-/*Add this in so that older browsers know how to display newer HTML5 elements*/
 header, nav, main, footer, aside {display: block;}
-/*By default browser only includes widht/height of the element to determine space to take up,
-by changing the box-sizing to border-box, any padding and border will be included in the width and height
-use universal selector (*) to select all elements*/
+
 *{box-sizing: border-box;}
 
 body {margin: 0;
